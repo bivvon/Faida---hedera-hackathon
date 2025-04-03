@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Build files
+artifacts/
+cache/
+typechain/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Generated files
+FaidaABI.json
+FaidaBytecode.json
+contract-info.json 
